@@ -34,6 +34,8 @@ class TOONTANKS_API APawnBase : public APawn
 
 		UPROPERTY(EditAnywhere, Category = "Effects")
 		UParticleSystem* DeathParticle;
+		UPROPERTY(EditAnywhere, Category = "Effects")
+		USoundBase* DeathSound;
 
 public:
 	// Sets default values for this pawn's properties
