@@ -16,9 +16,9 @@ class TOONTANKS_API APawnTurret : public APawnBase
 private:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Combat", meta = (AllowPrivateAccess = "true"))
-	float FireRate = 2.0f;
+	float FireRate = 3.50f;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Combat", meta = (AllowPrivateAccess = "true"))
-	float FireRange = 500.0f;
+	float FireRange = 750.0f;
 	FTimerHandle FireRateTimerHandle;
 	APawnTank* PlayerPawn;
 
