@@ -10,7 +10,7 @@ void APlayerControllerBase::SetPlayerEnableState(bool SetPlayerEnabled)
 		GetPawn()->EnableInput(this);
 	}
 	else
-	{
+	{  
 		GetPawn()->DisableInput(this);
 	}
 
