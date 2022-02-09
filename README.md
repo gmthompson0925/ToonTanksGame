@@ -1,6 +1,6 @@
 # Tanks!
 
-Tanks is a game i created following a Udemy course using C++ in Unreal Engine. I coded everything myself and decided to take it a step further to implement some extra features highlighted below.
+Tanks is 3D tank shooter game that I created using C++ and blueprints. This is the first game that I dove head first into creating new features myself. I am super proud of how it came and and I am super excited to see that there is also so much that can be improved upon as well!
 
 # Main features in Tanks!
 
